@@ -1,0 +1,65 @@
+# Planejamento
+
+Este foi o planejamento criado pelo nosso líder da Sprint, Aroldo, que seguimos nas últimas duas semanas. Esse planejamento foi fundamental para estabelecer metas claras, embora tenha sido ajustado algumas vezes para enfrentar os problemas que surgiram, como o feriado do dia 08/06. Utilizamos esse planejamento em nosso squad para avançarmos juntos e nos ajudarmos mutuamente.
+
+- **Sprint 1(29/05~09/06)**
+    - **D1 30/05 (2h19m)**
+        - **Métodos ágeis**
+            - [x]  Seção 4: Scrum (53m)
+        - **Segurança em Aplicações WEB**
+            - [x]  Seção 1: Introdução (38m)
+        - **Linux**
+            - [x]  Seção 1: Introdução (48m)
+    - **D2 31/05 (2h26m)**
+        - **Métodos ágeis**
+            - [x]  Seção 1: Introdução (22m)
+            - [x]  Seção 2: Gestão de projeto: do método tradicional ao ágil (1h10m)
+        - **Segurança em Aplicações WEB**
+            - [x]  Seção 2:  Princípios da Segurança, Testes de Vulnerabilidades, Ferramentas e Documentação (27m)
+        - **Linux**
+            - [x]  Seção 2: Teoria sobre o Linux (27m)
+    - **D3 01/06(2h14m)**
+        - **Métodos ágeis**
+            - [x]  Seção 3: Manifesto ágil (36m)
+            - [x]  Seção 5: Método Kanban (34m)
+        - **Linux**
+            - [x]  Seção 3: Linux Fundamental (1h4m)
+    - **D4 02/06 (2h24m)**
+        - **Linux**
+            - [x]  Seção 4: Gerenciamento de diretórios e arquivos(25m)
+            - [x]  Seção 5: Gerenciamento de pacotes/aplicativos (33m)
+            - [x]  Seção 6: Filtro de buscas de arquivos e diretórios (29m)
+            - [x]  Seção 7: Editores de texto mais utilizados (29m)
+            - [x]  Seção 8: Gerenciamento de usuários e grupos (28m)
+    - **D5 05/06 (2h54m)**
+        - **Linux**
+            - [x]  Seção 9: Gerenciamento de permissões (48m)
+            - [x]  Seção 10: Gerenciamento básico de redes (36m)
+            - [x]  Seção 11: Compactação e descompactação de arquivos e diretórios (13m)
+            - [x]  Seção 12 **(certificado)**: Instalando o LAMP (32m) **1/2**
+        - **Git e Github**
+            - [x]  Seção 1: Introdução e instalação das dependências  (45m)
+            - [x]  Tarefa 1
+        
+    - **D6 06/06 (3h9m)**
+        - **Linux**
+            - [x]  Seção 12 **(certificado)**: Instalando o LAMP (32m) **2/2**
+        - **Git e Github**
+            - [x]  Seção 2: Git fundamental (1h42m)
+            - [x]  Seção 3: Trabalhando com branches (55m)
+            - [x]  Tarefa 1
+    - **D7 07/06 (3h18m)**
+        - **Git e Github**
+            - [x]  Seção 4: Compartilhamento e atualização de repositórios (36m)
+            - [x]  Seção 5: Análise e inspeção de repositórios (15m)
+            - [x]  Seção 6: Administração de repositórios (22m)
+            - [x]  Seção 7: Melhorando os commits do projeto (30m)
+            - [x]  Seção 8: Explorando e entendendo o GitHub (1h35m)
+            - [x]  Tarefa 1
+    - **D8 08/06 (Feriado)**
+    - **D9 09/06  (1h46m)**
+        - **Git e Github**
+            - [x]  Seção 9: Markdown do básico ao avançado (39m)
+            - [x]  Seção 10 **(certificado)**: Projeto: Portifólio com GitHub Pages (1h4m)
+            - [x]  Seção 11: Encerramento e próximos passos (3m)
+            - [x]  Tarefa 1
