@@ -1,5 +1,9 @@
 # Descrição
 
-Nessa Sprint tive a oportunidade de aprender mais sobre Git / Github e o Linux, aprendi sobre metodologias ageis e um pouco de sciber securit
+Nesta Sprint, tive a oportunidade de aprofundar meus conhecimentos em Git/Github e Linux, além de aprender sobre metodologias ágeis e um pouco sobre segurança cibernética. Também tive o prazer de conhecer um grupo excepcional de pessoas, meu squad. Aroldo, Grazia, Luiz e Vinícius são colegas de equipe fantásticos, sempre dispostos a ajudar quando surge uma dúvida, além de serem muito engraçados.
 
-<svg role="img" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><title>npm</title><path d="M1.763 0C.786 0 0 .786 0 1.763v20.474C0 23.214.786 24 1.763 24h20.474c.977 0 1.763-.786 1.763-1.763V1.763C24 .786 23.214 0 22.237 0zM5.13 5.323l13.837.019-.009 13.836h-3.464l.01-10.382h-3.456L12.04 19.17H5.113z"/></svg>
+## Linux
+
+O primeiro curso que concluí foi o de Linux. Ao contrário do que foi utilizado no curso, optei por usar o WSL (Windows Subsystem for Linux) no meu computador para simular o terminal do Ubuntu, pois estou mais acostumado a utilizar o terminal de forma direta, em vez da interface gráfica. Durante o curso, foram reforçados o uso dos comandos básicos, como ls, cd, cat, clear, entre outros, além de comandos mais avançados, como grep, vim, nano, mv, entre outros.
+
+![Certificado_Linux](/Sprint-1/imgs/Certificado-Linux.jpg)
