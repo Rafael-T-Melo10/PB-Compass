@@ -7,7 +7,7 @@ Nesta Sprint, tive a oportunidade de aprofundar meus conhecimentos em SQL e Big 
 Concluí primeiramente o curso de Big Data, o qual foi bastante teórico e exigiu uma prova para obtenção do certificado. Durante o curso, tive a oportunidade de reforçar conceitos essenciais do campo, como a definição de Big Data, os diferentes sistemas e formas de armazenamento (datalake, data warehouse, etc.), além de explorar temas como processamento paralelo em cloud computing e o conceito de dados como serviço. Foi uma experiência enriquecedora que me proporcionou uma base sólida nessas áreas.
 
 
-<img src="/Sprint-2/Certificados/Certificado_Big_data.jpg" alt="Certificado__Big_data" width="300" height="200">
+<img src="/Sprint-2/Certificados/Certificado_Big_data.png" alt="Certificado_Big_data" width="300" height="200">
 
 ## SQL
 
