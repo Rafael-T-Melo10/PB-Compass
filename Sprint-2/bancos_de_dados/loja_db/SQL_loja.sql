@@ -70,7 +70,7 @@ SELECT
 FROM produt_count
 where gasto = (SELECT MAX(gasto) FROM produt_count)
  
--- Exercício XI
+-- Exercício XII
 
 WITH depend_count AS(
     SELECT
@@ -92,7 +92,7 @@ SELECT
 FROM depend_count
 WHERE valor_total_vendas =  (SELECT MIN(valor_total_vendas) FROM depend_count)
  
--- Exercício XI
+-- Exercício XIII
 
 with canal_count AS(
     SELECT
