@@ -1,12 +1,12 @@
--- SQLite
--- Exercício I
+-- SQLite --
+-- Exercício I --
 
 SELECT *
 FROM livro
 WHERE publicacao > '2014-12-31'
 ORDER BY cod 
 
--- Exercício II
+-- Exercício II --
 
 SELECT 
     titulo, 
@@ -15,7 +15,7 @@ FROM livro
 ORDER BY valor DESC
 LIMIT 10
 
--- Exercício III
+-- Exercício III --
 
 SELECT 
     edit.nome,
@@ -32,7 +32,7 @@ HAVING quantidade > 0
 ORDER BY quantidade DESC
 LIMIT 5
 
--- Exercício IV
+-- Exercício IV --
 
 SELECT 
     aut.nome, 
@@ -45,7 +45,7 @@ LEFT JOIN livro AS liv
 GROUP BY aut.nome
 ORDER BY aut.nome
 
--- Exercício V
+-- Exercício V --
 
 SELECT DISTINCT aut.nome
 FROM livro AS liv
@@ -55,7 +55,7 @@ JOIN endereco AS ende ON edit.endereco = ende.codendereco
 WHERE ende.estado NOT IN ('PARANÁ', 'RIO GRANDE DO SUL')
 ORDER BY aut.nome 
 
--- Exercício VI
+-- Exercício VI --
 
 SELECT
     aut.nome,
@@ -68,7 +68,7 @@ GROUP BY aut.nome
 ORDER BY quantidade_publicacoes DESC
 LIMIT 1
 
--- Exercício VII
+-- Exercício VII --
 
 SELECT
     aut.nome
