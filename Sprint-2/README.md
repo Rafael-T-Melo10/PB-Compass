@@ -15,8 +15,8 @@ Logo conclui o curso de SQL no qual aprendi os comandos básicos e avançados ut
 
 Ao longo das questões de 1 a 7, percebi que o nível de dificuldade era um pouco mais fácil em comparação com as questões de 8 a 16. Isso se deveu tanto à complexidade das solicitações quanto à dificuldade em compreender a estrutura das tabelas nos bancos de dados utilizados.
 
-<div style="display: flex;">    
-    <img src="/Sprint-2/Exercicios_I_parte_1/DER_Biblioteca.png" alt="Banco de dados Biblioteca" style="width: 50%;">
-    <img src="/Sprint-2/Exercicios_I_parte_2/DER_Loja.png" alt="Banco de dados loja" style="width: 50%;">
-</div>
+| ![Banco de dados Biblioteca](/Sprint-2/Exercicios_I_parte_1/DER_Biblioteca.png) | ![Banco de dados loja](Sprint-2/Exercicios_I_parte_2/DER_Loja.png) |
+|:---:|:---:|
+| Legenda 1 | Legenda 2 |
+
 <img src="/Sprint-2/Certificados/Certificado_SQL.jpg" alt="Certificado_SQL" width="300" height="200">
