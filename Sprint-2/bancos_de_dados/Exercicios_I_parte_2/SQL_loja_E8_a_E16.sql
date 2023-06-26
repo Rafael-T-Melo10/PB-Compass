@@ -94,7 +94,7 @@ WHERE valor_total_vendas =  (SELECT MIN(valor_total_vendas) FROM depend_count)
  
 -- Exercício XIII --
 
-with canal_count AS(
+WITH canal_count AS(
     SELECT
         ven.cdpro,
         ven.nmcanalvendas,
