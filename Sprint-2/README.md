@@ -20,7 +20,7 @@ Ao longo das questões de 1 a 7, percebi que o nível de dificuldade era um pouc
 | Legenda 1 | Legenda 2 | -->
 
 <div style="display: flex;">
-    <img src="/Sprint-2/bancos_de_dados/Exercicios_I_parte_1/DER_Biblioteca.png" alt="Banco de dados Biblioteca"  width="500" height="400">         <img src="/Sprint-2/bancos_de_dados/Exercicios_I_parte_2/DER_Loja.png" alt="Banco de dados loja"  width="500" height="400">
+    <img src="/Sprint-2/bancos_de_dados/Exercicios_I_parte_1/DER_Biblioteca.png" alt="Banco de dados Biblioteca"  width="400" height="300">         <img src="/Sprint-2/bancos_de_dados/Exercicios_I_parte_2/DER_Loja.png" alt="Banco de dados loja"  width="400" height="300">
 </div>
     
 <img src="/Sprint-2/Certificados/Certificado_SQL.jpg" alt="Certificado_SQL" width="300" height="200">
