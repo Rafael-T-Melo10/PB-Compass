@@ -11,6 +11,10 @@ Concluí primeiramente o curso de Big Data, o qual foi bastante teórico e exigi
 
 ## SQL
 
+Logo conclui o curso de SQL no qual foi usado o postgre para ensinar os comandos basicos e avançados de SQL, nesse curso tive muitas oportunidades de colocar em prática os conceitos apresentados, nas atividades foram usados 2 bancos de dados para podermos resolver as questões, nas questões de 1 a 7 o nivelfoi um pouco mais facil do que das 8 as 16, tanto no quesito de dificuldade no que foi pedido quanto na dificuldade no entendimento das tabelas dos bancos de dados.
 
-
+<div style="display: flex;">
+<img src="/Sprint-2/EXxercicios_I_parte_1/DER-Biblioteca.png" alt="Certificado_SQL" width="300" height="200">
+<img src="/Sprint-2/Exercicios_I_parte_2/DER-loja.png" alt="Certificado_SQL" width="300" height="200">
+</div>
 <img src="/Sprint-2/Certificados/Certificado_SQL.jpg" alt="Certificado_SQL" width="300" height="200">
