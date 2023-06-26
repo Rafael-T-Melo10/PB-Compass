@@ -11,10 +11,12 @@ Concluí primeiramente o curso de Big Data, o qual foi bastante teórico e exigi
 
 ## SQL
 
-Logo conclui o curso de SQL no qual foi usado o postgre para ensinar os comandos basicos e avançados de SQL, nesse curso tive muitas oportunidades de colocar em prática os conceitos apresentados, nas atividades foram usados 2 bancos de dados para podermos resolver as questões, nas questões de 1 a 7 o nivelfoi um pouco mais facil do que das 8 as 16, tanto no quesito de dificuldade no que foi pedido quanto na dificuldade no entendimento das tabelas dos bancos de dados.
+Logo conclui o curso de SQL no qual aprendi os comandos básicos e avançados utilizando o PostgreSQL. Durante o curso, tive diversas oportunidades para aplicar os conceitos apresentados em atividades práticas. Para resolver as questões propostas, utilizamos dois bancos de dados.
+
+Ao longo das questões de 1 a 7, percebi que o nível de dificuldade era um pouco mais fácil em comparação com as questões de 8 a 16. Isso se deveu tanto à complexidade das solicitações quanto à dificuldade em compreender a estrutura das tabelas nos bancos de dados utilizados.
 
 <div style="display: flex;">    
-    <img src="/Sprint-2/Exercicios_I_parte_1/DER_Biblioteca.png" alt="Banco de dados Biblioteca" width="300" height="200">
-    <img src="/Sprint-2/Exercicios_I_parte_2/DER_Loja.png" alt="Banco de dados loja" width="300" height="200">
+    <img src="/Sprint-2/Exercicios_I_parte_1/DER_Biblioteca.png" alt="Banco de dados Biblioteca" style="width: 50%;">
+    <img src="/Sprint-2/Exercicios_I_parte_2/DER_Loja.png" alt="Banco de dados loja" style="width: 50%;">
 </div>
 <img src="/Sprint-2/Certificados/Certificado_SQL.jpg" alt="Certificado_SQL" width="300" height="200">
