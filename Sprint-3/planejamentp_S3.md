@@ -1,5 +1,6 @@
 # PB-Compass
 
+Durante essas duas semanas, seguimos cuidadosamente o planejamento meticulosamente elaborado pelo Vinicius, nosso líder da Sprint. Trabalhamos em perfeita sintonia como um grupo unido, sempre nos apoiando quando necessário, e fomos recompensados com resultados satisfatórios.
 ## **Sprint 3(26/06~07/07)**
 
 - **D1 26/06**
@@ -22,38 +23,38 @@
         - [x]  Seção 4: Executando código (00:26)
 - D4 (29/06)
     - Python
-        - [ ]  Seção 5: Fundamentos Python (03:26)
-        - [ ]  Seção 7: Estruturas de controle (1:23)
+        - [x]  Seção 5: Fundamentos Python (03:26)
+        - [x]  Seção 7: Estruturas de controle (1:23)
 - D5 (30/06)
     - Python
-        - [ ]  Seção 7: Estruturas de controle (1:23)
+        - [x]  Seção 7: Estruturas de controle (1:23)
     - Exercicios
-        - [ ]  Seção 3
-        - [ ]  Seção 4
+        - [x]  Seção 3
+        - [x]  Seção 4
 - D6 (03/07)
     - Python
-        - [ ]  Seção 9: Manipulação de Arquivos (0:47)
-        - [ ]  Seção 10: Comprehension (0:26)
-        - [ ]  Seção 11: Funções (2:04)
-        - [ ]  Seção 12: Pacotes (0:32)
+        - [x]  Seção 9: Manipulação de Arquivos (0:47)
+        - [x]  Seção 10: Comprehension (0:26)
+        - [x]  Seção 11: Funções (2:04)
+        - [x]  Seção 12: Pacotes (0:32)
 - D7 (04/07)
     - Python
-        - [ ]  Seção 13: POO (2:33)
-        - [ ]  Seção 14: POO avançado (1:17)
-        - [ ]  Seção 16: Gerenciamento de pacotes (0:32)
-        - [ ]  Seção 17: Isolamento de ambientes (0:18)
+        - [x]  Seção 13: POO (2:33)
+        - [x]  Seção 14: POO avançado (1:17)
+        - [x]  Seção 16: Gerenciamento de pacotes (0:32)
+        - [x]  Seção 17: Isolamento de ambientes (0:18)
 - D8 (05/07)
     - Python
-        - [ ]  Seção 16: Gerenciamento de pacotes (0:32)
-        - [ ]  Seção 17: Isolamento de ambientes (0:18)
+        - [x]  Seção 16: Gerenciamento de pacotes (0:32)
+        - [x]  Seção 17: Isolamento de ambientes (0:18)
     - Exercícios
-        - [ ]  Seção 5
-        - [ ]  Seção 6
+        - [x]  Seção 5
+        - [x]  Seção 6
 - D9 (06/07)
     - Exercícios
-        - [ ]  Seção 5
-        - [ ]  Seção 6
+        - [x]  Seção 5
+        - [x]  Seção 6
 - D10 (07/07)
     - Exercícios
-        - [ ]  Seção 5
+        - [x]  Seção 5
 =======
