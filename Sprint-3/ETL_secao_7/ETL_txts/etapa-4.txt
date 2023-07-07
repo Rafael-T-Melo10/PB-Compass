@@ -1,4 +1,16 @@
-Filme(s) mais frequente(s):
+Filmes mais frequentes:
 Filme: The Avengers
 Frequencia: 6
+
+Filme: Catching Fire
+Frequencia: 4
+
+Filme: Harry Potter / Deathly Hallows (P2)
+Frequencia: 4
+
+Filme: Star Wars: The Force Awakens
+Frequencia: 3
+
+Filme: The Dark Knight
+Frequencia: 3
 

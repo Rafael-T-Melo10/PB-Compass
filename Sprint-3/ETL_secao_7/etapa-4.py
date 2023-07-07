@@ -39,25 +39,24 @@ def ler_arquivo_csv(nome_arquivo):
 
 cabecalho, dados = ler_arquivo_csv('actors.csv')
 
-# A parte que pega o nome do filme mais frequente e sua respectiva frequência.
 indice_filme = cabecalho.index('#1 Movie')
 
 frequencia_filmes = {}
 
+# Conta a quantdade de vezes que apareceu
+for linha in dados:
+    filme = linha[indice_filme]
+    if filme in frequencia_filmes:
+        frequencia_filmes[filme] += 1
+    else:
+        frequencia_filmes[filme] = 1
+
+# Obter as 5 maiores frequências
+maiores_frequencias = sorted(frequencia_filmes.items(), key=lambda x: x[1], reverse=True)[:5]
+
 with open('etapa-4.txt', 'w') as arquivo_saida:
-    for linha in dados:
-        filme = linha[indice_filme]
-        if filme in frequencia_filmes:
-            frequencia_filmes[filme] += 1
-        else:
-            frequencia_filmes[filme] = 1
-
-    maior_frequencia = max(frequencia_filmes.values())
-
-    filmes_mais_frequentes = [filme for filme, frequencia in frequencia_filmes.items() if frequencia == maior_frequencia]
-
-    print("Filme(s) mais frequente(s):", file = arquivo_saida)
-    for filme in filmes_mais_frequentes:
-        print("Filme:", filme, file = arquivo_saida)
-        print("Frequencia:", maior_frequencia, file = arquivo_saida)
-        print('', file = arquivo_saida)
+    print("Filmes mais frequentes:", file=arquivo_saida)
+    for filme, frequencia in maiores_frequencias:
+        print("Filme:", filme, file=arquivo_saida)
+        print("Frequencia:", frequencia, file=arquivo_saida)
+        print('', file=arquivo_saida)
