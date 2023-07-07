@@ -1,0 +1,151 @@
+Media de faturamento por ator:
+Nome: Harrison Ford
+Media de faturamento: 118.82
+
+Nome: Samuel L. Jackson
+Media de faturamento: 69.17
+
+Nome: Morgan Freeman
+Media de faturamento: 73.25
+
+Nome: Tom Hanks
+Media de faturamento: 98.65
+
+Nome: Robert Downey, Jr.
+Media de faturamento: 74.48
+
+Nome: Eddie Murphy
+Media de faturamento: 100.27
+
+Nome: Tom Cruise
+Media de faturamento: 99.64
+
+Nome: Johnny Depp
+Media de faturamento: 74.86
+
+Nome: Michael Caine
+Media de faturamento: 57.78
+
+Nome: Scarlett Johansson
+Media de faturamento: 90.30
+
+Nome: Gary Oldman
+Media de faturamento: 86.68
+
+Nome: Robin Williams
+Media de faturamento: 66.92
+
+Nome: Bruce Willis
+Media de faturamento: 53.16
+
+Nome: Stellan Skarsgard
+Media de faturamento: 73.84
+
+Nome: Anthony Daniels
+Media de faturamento: 451.84
+
+Nome: Ian McKellen
+Media de faturamento: 101.63
+
+Nome: Will Smith
+Media de faturamento: 131.21
+
+Nome: Stanley Tucci
+Media de faturamento: 62.48
+
+Nome: Matt Damon
+Media de faturamento: 79.67
+
+Nome: Robert DeNiro
+Media de faturamento: 39.00
+
+Nome: Cameron Diaz
+Media de faturamento: 89.17
+
+Nome: Liam Neeson
+Media de faturamento: 46.71
+
+Nome: Andy Serkis
+Media de faturamento: 125.68
+
+Nome: Don Cheadle
+Media de faturamento: 84.86
+
+Nome: Ben Stiller
+Media de faturamento: 76.41
+
+Nome: Helena Bonham Carter
+Media de faturamento: 78.39
+
+Nome: Orlando Bloom
+Media de faturamento: 165.64
+
+Nome: Woody Harrelson
+Media de faturamento: 56.32
+
+Nome: Cate Blanchett
+Media de faturamento: 71.86
+
+Nome: Julia Roberts
+Media de faturamento: 65.13
+
+Nome: Elizabeth Banks
+Media de faturamento: 77.89
+
+Nome: Ralph Fiennes
+Media de faturamento: 75.43
+
+Nome: Emma Watson
+Media de faturamento: 157.76
+
+Nome: Tommy Lee Jones
+Media de faturamento: 58.29
+
+Nome: Brad Pitt
+Media de faturamento: 67.02
+
+Nome: Adam Sandler
+Media de faturamento: 83.16
+
+Nome: Daniel Radcliffe
+Media de faturamento: 154.96
+
+Nome: Jonah Hill
+Media de faturamento: 89.83
+
+Nome: Owen Wilson
+Media de faturamento: 66.73
+
+Nome: Idris Elba
+Media de faturamento: 99.25
+
+Nome: Bradley Cooper
+Media de faturamento: 102.31
+
+Nome: Mark Wahlberg
+Media de faturamento: 70.83
+
+Nome: Jim Carrey
+Media de faturamento: 94.27
+
+Nome: Dustin Hoffman
+Media de faturamento: 58.65
+
+Nome: Leonardo DiCaprio
+Media de faturamento: 100.73
+
+Nome: Jeremy Renner
+Media de faturamento: 119.06
+
+Nome: Philip Seymour Hoffman
+Media de faturamento: 61.59
+
+Nome: Sandra Bullock
+Media de faturamento: 70.36
+
+Nome: Chris Evans
+Media de faturamento: 106.86
+
+Nome: Anne Hathaway
+Media de faturamento: 96.66
+

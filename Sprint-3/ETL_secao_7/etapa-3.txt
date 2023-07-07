@@ -1,0 +1,4 @@
+Ator/atrizes com a maior m�dia de faturamento por filmes:
+Nome: Anthony Daniels
+Maior media de faturamento: 451.8
+

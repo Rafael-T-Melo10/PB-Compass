@@ -39,19 +39,21 @@ def ler_arquivo_csv(nome_arquivo):
 
 cabecalho, dados = ler_arquivo_csv('actors.csv')
 
-# A parte que pega o ator/atriz com a maior média de faturamento por filme
-indice_media_por_filme = cabecalho.index('Average per Movie')
+# A parte que pega o Ator/atrizes com o maior número de filmes e a respectiva quantidade. 
+indice_numero_filmes = cabecalho.index('Number of Movies')
 indice_ator = cabecalho.index('Actor')
 
-maior_faturamento = 0
-ator_com_maior_faturamento = ''
+maior_numero_filmes = 0
+ator_com_mais_filmes = ''
 
-for linha in dados:
-    media_faturamento = float(linha[indice_media_por_filme])
-    if media_faturamento > maior_faturamento:
-        maior_faturamento = media_faturamento
-        ator_com_maior_faturamento = linha[indice_ator]
+with open('etapa-1.txt', 'w') as arquivo_saida:
+    for linha in dados:
+        numero_filmes = int(linha[indice_numero_filmes])
+        if numero_filmes > maior_numero_filmes:
+            maior_numero_filmes = numero_filmes
+            ator_com_mais_filmes = linha[indice_ator]
 
-print("Ator/atrizes com a maior média de faturamento por filmes:")
-print("Nome:", ator_com_maior_faturamento)
-print("Maior média de faturamento:", maior_faturamento)
+    print("Ator/atrizes com o maior numero de filmes:", file = arquivo_saida)
+    print("Nome: ", ator_com_mais_filmes, file = arquivo_saida)
+    print("Numero de filmes: ", maior_numero_filmes, file = arquivo_saida)
+    print('', file = arquivo_saida)

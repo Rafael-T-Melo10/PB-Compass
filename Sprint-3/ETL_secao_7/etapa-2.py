@@ -39,19 +39,19 @@ def ler_arquivo_csv(nome_arquivo):
 
 cabecalho, dados = ler_arquivo_csv('actors.csv')
 
-# A parte que pega o Ator/atrizes com o maior número de filmes e a respectiva quantidade. 
-indice_numero_filmes = cabecalho.index('Number of Movies')
+# A parte que pega o a média de faturamento bruto por ator.
+indice_faturamento_total = cabecalho.index('Total Gross')
+indice_numero_de_filmes = cabecalho.index('Number of Movies')
 indice_ator = cabecalho.index('Actor')
 
-maior_numero_filmes = 0
-ator_com_mais_filmes = ''
-
-for linha in dados:
-    numero_filmes = int(linha[indice_numero_filmes])
-    if numero_filmes > maior_numero_filmes:
-        maior_numero_filmes = numero_filmes
-        ator_com_mais_filmes = linha[indice_ator]
-
-print("Ator/atrizes com o maior número de filmes:")
-print("Nome: ", ator_com_mais_filmes)
-print("Número de filmes: ", maior_numero_filmes)
+with open('etapa-2.txt', 'w') as arquivo_saida:
+    print('Media de faturamento por ator:', file = arquivo_saida)
+    for linha in dados:
+        nome_ator = linha[indice_ator]
+        faturamento_total = float(linha[indice_faturamento_total])
+        numero_de_filmes = float(linha[indice_numero_de_filmes])
+        media_filme = faturamento_total / numero_de_filmes
+        media_filme_arredondada = round(media_filme, 2)
+        print('Nome:', nome_ator, file=arquivo_saida)
+        print('Media de faturamento:', '{:.2f}'.format(media_filme_arredondada), file=arquivo_saida)
+        print('', file=arquivo_saida)
