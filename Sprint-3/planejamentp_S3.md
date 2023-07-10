@@ -57,4 +57,4 @@ Durante essas duas semanas, seguimos cuidadosamente o planejamento meticulosamen
 - D10 (07/07)
     - Exercícios
         - [x]  Seção 5
-=======
+        - [x]  Seção 6
