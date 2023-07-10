@@ -51,7 +51,7 @@ with open('etapa-2.txt', 'w') as arquivo_saida:
         faturamento_total = float(linha[indice_faturamento_total]) # Pegando os valores e transformando em floats
         numero_de_filmes = float(linha[indice_numero_de_filmes]) # Pegando os valores e transformando em floats
         media_filme = faturamento_total / numero_de_filmes # A conta da média
-        media_filme_arredondada = round(media_filme, 2) # Arredondando a média
+        media_filme_arredondada = round(media_filme, 1) # Arredondando a média
         print('Nome:', nome_ator, file=arquivo_saida)
         print('Media de faturamento:', '{:.2f}'.format(media_filme_arredondada), file=arquivo_saida)
         print('', file=arquivo_saida)
