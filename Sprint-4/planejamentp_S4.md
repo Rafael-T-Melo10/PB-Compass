@@ -13,9 +13,9 @@
     - Python
         - [X]  Section 15: Programação Funcional (02:16)
     - Estatística Descritiva com Python
-        - [ ]  Section 1: Introdução (00:37)
-        - [ ]  Section 3: Fundamentos da Estatística (00:38)
-        - [ ]  Section 4: Representações Gráficas (00:41)
+        - [X]  Section 1: Introdução (00:37)
+        - [X]  Section 3: Fundamentos da Estatística (00:38)
+        - [X]  Section 4: Representações Gráficas (00:41)
 - D4 (13/07)
     - Estatística Descritiva com Python
         - [ ]  Section 5: Medidas de Tendência Central (MTC) (00:54)
