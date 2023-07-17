@@ -23,11 +23,11 @@
         - [X]  Section 7: Medidas de Assimetria (MA) (00:25)
         - [X]  Section 8: Aplicações em Data Science (00:31)
     - Docker para Desenvolvedores
-        - [ ]  Section 1: Introduction (01:17)
+        - [X]  Section 1: Introduction (01:17)
 - D5 (14/07)
     - Docker para Desenvolvedores
-        - [ ]  Section 2: Trabalhando com Conteiners (01:00)
-        - [ ]  Section 3: Criando imagens avançadas (01:29)
+        - [X]  Section 2: Trabalhando com Conteiners (01:00)
+        - [X]  Section 3: Criando imagens avançadas (01:29)
         - [ ]  Section 4: Introduzindo volumes (00:47)
         - [ ]  Section 5: Conectando conteiners (01:05)
 - D6 (17/07)
