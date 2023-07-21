@@ -28,26 +28,26 @@
     - Docker para Desenvolvedores
         - [X]  Section 2: Trabalhando com Conteiners (01:00)
         - [X]  Section 3: Criando imagens avançadas (01:29)
-        - [ ]  Section 4: Introduzindo volumes (00:47)
-        - [ ]  Section 5: Conectando conteiners (01:05)
+        - [X]  Section 4: Introduzindo volumes (00:47)
+        - [X]  Section 5: Conectando conteiners (01:05)
 - D6 (17/07)
     - Docker para Desenvolvedores
-        - [ ]  Section 6: Introdução ao YAML (00:28)
-        - [ ]  Section 7: Gerenciando múltiplos conteiners  (00:59)
-        - [ ]  Section 8: Docker Swarm (01:48)
+        - [X]  Section 6: Introdução ao YAML (00:28)
+        - [X]  Section 7: Gerenciando múltiplos conteiners  (00:59)
+        - [X]  Section 8: Docker Swarm (01:48)
 - D7 (18/07)
     - Docker para Desenvolvedores
-        - [ ]  Section 9: Orquestração com Kubernetes (02:11)
-        - [ ]  Section 11: Conclusão (00:03)
+        - [X]  Section 9: Orquestração com Kubernetes (02:11)
+        - [X]  Section 11: Conclusão (00:03)
 - D8 (19/07)
     - Exercícios
-        - [ ]  Section 2
-        - [ ]  Section 3
+        - [X]  Section 2
+        - [X]  Section 3
 - D9 (20/07)
     - Exercícios
-        - [ ]  Section  2
-        - [ ]  Section 3
+        - [X]  Section  2
+        - [X]  Section 3
 - D10 (21/07)
     - Exercícios
-        - [ ]  Section 2
-        - [ ]  Section 3
+        - [X]  Section 2
+        - [X]  Section 3
