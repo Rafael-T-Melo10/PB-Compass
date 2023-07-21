@@ -1,6 +1,6 @@
 FROM python
 
-COPY Secao_3/Q1/carguru.py /app/carguru.py
+COPY carguru.py /app/carguru.py
 
 WORKDIR /app
 
