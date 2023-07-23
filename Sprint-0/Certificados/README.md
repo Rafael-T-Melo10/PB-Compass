@@ -1,19 +1,27 @@
 # Descrição
 
-Nesta Sprint, tive a oportunidade de aprofundar meus conhecimentos em Git/Github e Linux, além de aprender sobre metodologias ágeis e um pouco sobre segurança cibernética. Também tive o prazer de conhecer um grupo excepcional de pessoas, meu squad. Aroldo, Grazia, Luiz e Vinícius são colegas de equipe fantásticos, sempre dispostos a ajudar quando surge uma dúvida, além de serem muito engraçados.
+Decidi criar esta Sprint 0 para incluir os certificados dos cursos que não se encaixaram nas 10 sprints propostas pelo programa de bolsa. Inicialmente, inseri os certificados dos cursos de Métodos Ágeis e Segurança na Web. A ideia é garantir que esses cursos essenciais também recebam o devido reconhecimento e integrem meu percurso de aprendizado. Com isso, estou firmando um compromisso com a organização e planejando seguir adiante com dedicação em todos os módulos do programa de bolsa.
+## Metodos Ageis
 
-## Linux
+O curso de Métodos Ágeis foi uma experiência incrível que me proporcionou um vasto conhecimento sobre o Manifesto Ágil. Durante o curso, aprendi sobre a origem do Scrum e a metodologia de sprints que seguimos para impulsionar nossos projetos. Além disso, tive a oportunidade de explorar outros métodos ágeis, como Kanban, Lean, Extreme Programming, e ainda fui apresentado ao Design Sprint do Google e ao modelo Spotify Squads.
 
-O primeiro curso que concluí foi o de Linux. Ao contrário do que foi utilizado no curso, optei por usar o WSL (Windows Subsystem for Linux) no meu computador para simular o terminal do Ubuntu, pois estou mais acostumado a utilizar o terminal de forma direta, em vez da interface gráfica. Durante o curso, foram reforçados o uso dos comandos básicos, como ls, cd, cat, clear, entre outros, além de comandos mais avançados, como grep, vim, nano, mv, entre outros.
-
-### Certificado:
-
-<img src="/Sprint-1/Certificados/Certificado-Linux.jpg" alt="Certificado_Linux" width="300" height="200">
-
-## Git e GitHub
-
-Logo em seguida, concluí o curso de Git e GitHub, o que me permitiu expandir ainda mais meu repertório de comandos, incluindo alguns que eu nunca havia visto antes. Pude aprender algo que considerava bastante complicado: os branches, de maneira clara e com diversos exemplos para praticar. Além disso, adquiri boas práticas para trabalhar em equipe. Aprendi a criar tags, submódulos e a utilizar stash. Também desenvolvi habilidades para criar commits claros e diretos, e descobri inúmeras funcionalidades do GitHub que eu nem imaginava que existiam.
+Ao longo do curso, também tive contato com ferramentas essenciais para a gestão ágil, como as ferramentas SMART, Trello e Asana, que se mostraram muito eficazes na organização e acompanhamento das atividades.
 
 ### Certificado:
 
-<img src="/Sprint-1/Certificados/Certificado-git.jpg" alt="Certificado_Git_GitHub" width="300" height="200">
+<img src="/Sprint-0/Certificados/Certificado_metodos_ageis.jpg" alt="Certificado_metodos_ageis" width="300" height="200">
+
+## Segurança na WEB
+
+O curso de Segurança na Web foi uma experiência transformadora, proporcionando-me um amplo conhecimento sobre as diversas vulnerabilidades que podem afetar os sistemas online. Durante o curso, aprofundei meu entendimento sobre os tipos de vulnerabilidades mais comuns encontradas na web, bem como os métodos para detectá-las e as estratégias eficazes para me defender de possíveis ataques.
+
+Primeiramente, o curso abordou as vulnerabilidades mais frequentes, como Injeção de SQL, Cross-Site Scripting (XSS), Cross-Site Request Forgery (CSRF), e outras. Compreendi a importância de entender como essas vulnerabilidades surgem e como podem ser exploradas por invasores mal-intencionados.
+
+Aprendi, também, técnicas de detecção de vulnerabilidades, incluindo o uso de ferramentas automatizadas, como scanners de segurança, para identificar possíveis brechas nos sistemas web. Além disso, o curso enfatizou a importância de realizar testes de penetração (pentest) de forma ética, para avaliar a segurança de um sistema em ambiente controlado.
+
+Quanto às estratégias de defesa, o curso me orientou sobre as melhores práticas para proteger um sistema contra essas vulnerabilidades. Isso incluiu a implementação de medidas de segurança adequadas, como validação de entrada de dados, controle de acesso, utilização de tokens anti-CSRF, entre outras.
+
+Ademais, o curso enfatizou a importância de manter o software e as bibliotecas atualizados, para evitar o uso de versões com falhas conhecidas e vulnerabilidades já corrigidas em atualizações anteriores.
+### Certificado:
+
+<img src="/Sprint-0/Certificados/Certificado_Segurança_WEB.jpg" alt="Certificado_segurança_na_web" width="300" height="200">
