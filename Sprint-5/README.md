@@ -23,3 +23,4 @@ O objetivo deste curso foi nos preparar para os conceitos da certificação AWS 
 Esse curso foi o mais interessante de todos! Seu método de ensino, que combina aprendizado e jogos, foi verdadeiramente inovador. Através de desafios apresentados em formato de fases num mundo aberto, pudemos colocar a mão na massa, aprender sobre arquitetura, enfrentar problemas e fazer as soluções passo a passo.
 
 * ![Cloud_Quest](https://www.credly.com/badges/87408670-8fb4-4b4a-bfd4-48be60dac133/public_url)
+<img src="https://www.credly.com/badges/87408670-8fb4-4b4a-bfd4-48be60dac133/public_url" alt="Certificado_Docker" width="300" height="200">
