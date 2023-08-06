@@ -22,4 +22,4 @@ O objetivo deste curso foi nos preparar para os conceitos da certificação AWS 
 
 Esse curso foi o mais interessante de todos! Seu método de ensino, que combina aprendizado e jogos, foi verdadeiramente inovador. Através de desafios apresentados em formato de fases num mundo aberto, pudemos colocar a mão na massa, aprender sobre arquitetura, enfrentar problemas e fazer as soluções passo a passo.
 
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="87408670-8fb4-4b4a-bfd4-48be60dac133" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+* ![Cloud_Quest](https://www.credly.com/badges/87408670-8fb4-4b4a-bfd4-48be60dac133/public_url)
