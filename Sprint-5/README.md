@@ -6,7 +6,7 @@ Nesta sprint, iniciamos nossas preparações para a certificação AWS Cloud Pra
 
 Sales Accreditation (Business) é destinado a aprimorar as habilidades de vendas dos parceiros da AWS. Ele abrange estratégias de vendas, modelos de precificação da AWS e benefícios dos serviços em nuvem. Ao concluir o curso, os parceiros estarão mais capacitados para oferecer soluções de negócios eficazes aos clientes da AWS, maximizando o valor e a satisfação do cliente.
 
-<img src="/Sprint-5/Certificados/aws-partner-cloud-economics-accreditation.png" alt="Cloud_Sales_accred" width="300" height="200">
+<img src="/Sprint-5/Certificados/aws-partner-sales-accreditation-business.png" alt="Cloud_Sales_accred" width="200" height="200">
 
 ## AWS Partner: Accreditation (Technical)
 
