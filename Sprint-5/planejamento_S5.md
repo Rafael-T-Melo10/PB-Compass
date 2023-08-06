@@ -1,0 +1,75 @@
+# Planejamento - Sprint 5
+
+O planejamento criado pelo nosso líder das sprints, Luiz, foi fundamental para o êxito da sprint
+
+# Sprint 5 — 24/07 → 04/08
+
+- Dia 1 — 24/07:
+- Dia 2 — 25/07:
+    - Data & Analytics - PB - AWS 5/10:
+        - [x]  Seção 1;
+        - [x]  Seção 2;
+    - [x]  Criar contas AWS;
+    - AWS Skill Builder - AWS Partner: Sales Accreditation (Business) (Portuguese)
+        - [x]  Introdução e visão geral do curso; (15 minutos)
+        - [x]  Módulo 1: conceitos de nuvem e serviços da AWS; (45 minutos)
+        - [x]  Módulo 2: valor comercial; (45 minutos)
+- Dia 3 — 26/07:
+    - AWS Skill Builder - AWS Partner: Sales Accreditation (Business) (Portuguese)
+        - [x]  Módulo 3: como lidar com objeções à nuvem; (45 minutos)
+        - [x]  Módulo 4: venda conjunta com a AWS; (45 minutos)
+        - [x]  Teste de credenciamento; (20 minutos)
+- Dia 4 — 27/07:
+    - AWS Partner: Accreditation (Technical) (Portuguese)
+        - [x]  Módulo 1: visão geral do curso; (5 minutos)
+        - [x]  Módulo 2: Introdução às tecnologias essenciais da AWS; (50 minutos)
+        - [x]  Módulo 3: de serviços a soluções; (40 minutos)
+        - [x]  Módulo 4: apresentação das soluções da AWS aos clientes; (30 minutos)
+        - [x]  Módulso 5: próximos passos; (20 minutos)
+        - [x]  Módulo 6: recursos da rede de parceiros da AWS; (15 minutos)
+        - [x]  Módulo 7: revisão do curso; (10 minutos)
+- Dia 5 — 28/07:
+    - AWS Partner: Accreditation (Technical) (Portuguese)
+        - [x]  Teste de credenciamento;
+    - AWS Partner: Cloud Economics Accreditation (Portuguese)
+        - [x]  Module 0: Course Introduction;
+        - [x]  Module 1: Introduction to Business Value;
+        - [x]  Module 2: Cost Savings Basics;
+        - [x]  Module 3: Staff Productivity;
+        - [x]  Module 4: Operational Resilience;
+        - [x]  Module 5: Business Agility;
+- Dia 6 — 31/07:
+    - AWS Partner: Cloud Economics Accreditation (Portuguese)
+        - [x]  Module 6: Cloud Financial Management;
+        - [x]  Module 7: Introduction to Migration Portfolio Assessment (MPA);
+        - [x]  Module 8: Cost Savings with MPA;
+    - Exam Prep: AWS Certified Cloud Practitioner (Portuguese)
+        - [x]  Module 1: Cloud Concepts; (35 minutos)
+        - [x]  Module 2: Security and Compliance; (60 minutos)
+- Dia 7 — 01/08:
+    - AWS Partner: Cloud Economics Accreditation (Portuguese)
+        - [x]  Avaliação de fim de curso
+        - [x]  Conclusão do curso
+    - Exam Prep: AWS Certified Cloud Practitioner (Portuguese)
+        - [x]  Module 3: Technology; (40 minutos)
+        - [x]  Module 4: Billing and Pricing; (30 minutos)
+- Dia 8 — 02/08:
+    - AWS Cloud Quest: Cloud Practitioner
+        - [x]  Cloud Computing Essentials;
+        - [x]  Cloud First Steps;
+- Dia 9 — 03/08:
+    - AWS Cloud Quest: Cloud Practitioner
+        - [x]  Computing Solutions;
+        - [x]  Cloud Economics;
+        - [x]  Networking Concepts;
+        - [x]  Databases in Practice;
+        - [x]  Connecting VPCs;
+        - [x]  First NoSQL Database;
+- Dia 10 — 04/08:
+    - AWS Cloud Quest: Cloud Practitioner
+        - [x]  Core Security Concepts;
+        - [x]  File Systems in the Cloud;
+        - [x]  Auto-healing and Scaling Applications;
+        - [x]  Highly Available Web Applications;
+    - Data & Analytics - PB - AWS 5/10:
+        - [x]  Seção 3;
