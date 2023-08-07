@@ -26,7 +26,8 @@ O objetivo deste curso foi nos preparar para os conceitos da certificação AWS 
 
 ### (Esse curso ainda não me deu a badge por isso cloquei a prova de conclusão)
 
-<img src="/Sprint-5/Certificados/aws-cloud-practitioner.png" alt="Exam_Prep" width="200" height="300">
+
+<img src="/Sprint-5/Certificados/aws-cloud-practitioner.png" alt="Exam_Prep" width="500" height="300">
 
 ## AWS Cloud Quest: Cloud Practitioner
 
