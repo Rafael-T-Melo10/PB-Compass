@@ -25,7 +25,8 @@ Cloud Economics Accreditation visa capacitar os parceiros da AWS com uma compree
 O objetivo deste curso foi nos preparar para os conceitos da certificação AWS Cloud Practitioner. Durante o curso, foram abordadas questões relacionadas à segurança, tecnologia, preço e custos, além de explicar o modelo de responsabilidade compartilhada da AWS.
 
 (Esse curso ainda não me deu a badge por isso cloquei a prova de conclusão)
-<img src="/Sprint-5/Certificados/aws-cloud-practitioner.png" alt="Exam_Prep" width="150" height="150">
+
+<img src="/Sprint-5/Certificados/aws-cloud-practitioner.png" alt="Exam_Prep" width="200" height="300">
 
 ## AWS Cloud Quest: Cloud Practitioner
 
