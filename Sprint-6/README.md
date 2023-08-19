@@ -69,7 +69,7 @@ Nesse exercício de S3 tive que criar um Bucket para habilitar a hospedagem de s
 <details>
 <summary>Amazon Athena</summary>
 
-Nesse exercício do Amazon Athena tive que criar um banco de dados, criar uma tabela, abrir o CSV e usar o Athena para criar queries de sql para buscar informações no CSV.
+Nesse exercício do Amazon Athena tive que criar um banco de dados, criar uma tabela, abrir o CSV e usar o Athena para criar queries de sql para buscar informações no CSV.<br>
 Junto com as queries eu coloquei os CSVs com as saídas delas.
 
 ## Etapa 1: Configurar Athena
