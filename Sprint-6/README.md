@@ -30,7 +30,7 @@ Nesse exercício de S3 tive que criar um Bucket para habilitar a hospedagem de s
 <img src="/Sprint-6/s3/fotos/etapa-6-s3.png" alt="etapa-6-s3" width="1000" height="400">
 
 ## Etapa 7: testar o endpoint do site
-<img src="/Sprint-6/s3/fotos/etapa-7-s3.png" alt="etapa-7-s3" width="1000" height="400">
+<img src="/Sprint-6/s3/fotos/etapa-7-s3.png" alt="etapa-7-s3" width="1000" height="300">
 </details>
 
 <details>
