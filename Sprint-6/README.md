@@ -6,6 +6,8 @@ Durante esse período, fui apresentado a novas ferramentas essenciais da AWS, in
 
 Destaco também a contribuição fundamental do nosso instrutor, Marcos. Sua orientação especializada desempenhou um papel crucial no aprofundamento do meu entendimento sobre a certificação de Cloud Practitioner da AWS. Além disso, tive a oportunidade de participar de diversos PartnerCasts, o que me permitiu realizar simulações práticas e explorar o banco de questões da AWS de maneira mais abrangente, solidificando assim o meu conhecimento.
 
+Essa sprint nenhum curso me deu certificado então coloquei as provas, em formato de print, na pasta de certificados.
+
 <details>
 <summary>Amazon S3</summary>
 
@@ -67,7 +69,8 @@ Nesse exercício de S3 tive que criar um Bucket para habilitar a hospedagem de s
 <details>
 <summary>Amazon Athena</summary>
 
-Nesse exercício do Amazon Athena tive que criar um banco de dados, criar uma tabela, abrir o CSV e usar o Athena para criar queries de sql para buscar informações no CSV
+Nesse exercício do Amazon Athena tive que criar um banco de dados, criar uma tabela, abrir o CSV e usar o Athena para criar queries de sql para buscar informações no CSV.
+Junto com as queries eu coloquei os CSVs com as saídas delas.
 
 ## Etapa 1: Configurar Athena
 <img src="/Sprint-6/athena/fotos/etapa-1-athena.png" alt="etapa-1-athena" width="1000" height="300">
@@ -127,7 +130,6 @@ WHERE rank <= 3
 ORDER BY decade,
 	rank
 ~~~
-
 </details>
 
 
