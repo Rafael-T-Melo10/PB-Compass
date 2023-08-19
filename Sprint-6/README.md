@@ -21,7 +21,6 @@ Nesse exercício de S3 tive que criar um Bucket para habilitar a hospedagem de s
 <img src="/Sprint-6/s3/fotos/etapa-3-s3.png" alt="etapa-3-s3" width="1000" height="200">
 
 ## Etapa 4: Adicionar política de bucket que torna o conteúdo do bucket publicamente disponível
-<img src="/Sprint-6/s3/fotos/etapa-4-s3.png" alt="etapa-4-s3" width="1000" height="300">
 
 ~~~json
 {
