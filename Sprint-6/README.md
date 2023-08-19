@@ -144,6 +144,27 @@ Nesse exercício do Amazon Lambda tive que criar uma função lambda, construir 
 ## Etapa 2: Construir o código
 <img src="/Sprint-6/lambda/fotos/etapa-2-lambda.png" alt="etapa-2-lambda" width="1000" height="300">
 
+
+~~~python
+import json
+import pandas
+import boto3
+ 
+def lambda_handler(event, context):
+    s3_client = boto3.client('s3')
+ 
+    bucket_name = 'etapa1'
+    s3_file_name = 'dados/nomes.csv'
+    objeto = s3_client.get_object(Bucket=bucket_name, Key=s3_file_name)
+    df=pandas.read_csv(objeto['Body'], sep=',')
+    rows = len(df.axes[0])
+ 
+    return {
+        'statusCode': 200,
+        'body': f"Este arquivo tem {rows} linhas"
+    }
+~~~
+
 ## Etapa 3: Criar uma Layer
 <img src="/Sprint-6/lambda/fotos/etapa-3-lambda.png" alt="etapa-3-lambda" width="1000" height="300">
 
