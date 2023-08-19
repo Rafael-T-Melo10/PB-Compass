@@ -147,6 +147,28 @@ Nesse exercício do Amazon Lambda tive que criar uma função lambda, construir 
 ## Etapa 3: Criar uma Layer
 <img src="/Sprint-6/lambda/fotos/etapa-3-lambda.png" alt="etapa-3-lambda" width="1000" height="300">
 
+~~~dockerfile
+FROM amazonlinux:2.0.20200602.0
+RUN yum update -y
+RUN yum install -y \
+python3-pip \
+zip \
+RUN yum -y clean all
+RUN python3.7 -m pip install --upgrade pip
+~~~
+
+Nessa etapa tive que rodar uma imagem do docker e usei os seguintes comandos para faze-lo rodar:
+
+Para criar a imagem usei esse:
+ˋˋˋ
+docker build -t amazonlinuxpython37 .
+ˋˋˋ
+
+Para rodar a imagem usei esse:
+ˋˋˋ
+docker run -it amazonlinuxpython37 bash
+ˋˋˋ
+
 ## Etapa 4: Utilizando a Layer
 <img src="/Sprint-6/lambda/fotos/etapa-4-lambda.png" alt="etapa-4-lambda" width="1000" height="300">
 
