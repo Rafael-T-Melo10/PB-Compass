@@ -72,11 +72,62 @@ Nesse exercício do Amazon Athena tive que criar um banco de dados, criar uma ta
 ## Etapa 1: Configurar Athena
 <img src="/Sprint-6/athena/fotos/etapa-1-athena.png" alt="etapa-1-athena" width="1000" height="300">
 
+~~~sql
+CREATE EXTERNAL TABLE IF NOT EXISTS meubanco.nomes (
+nome STRING,
+sexo STRING,
+total INT,
+ano INT
+)
+ROW FORMAT SERDE 'org.apache.hadoop.hive.serde2.lazy.LazySimpleSerDe'
+WITH SERDEPROPERTIES (
+ 'serialization.format' = ',',
+ 'field.delim' = ','
+)
+LOCATION 's3://etapa1/dados/'
+~~~
 ## Etapa 2: Criar um banco de dados
 <img src="/Sprint-6/athena/fotos/etapa-2-athena.png" alt="etapa-2-athena" width="1000" height="300">
 
+~~~sql
+select nome 
+from meubanco.nomes 
+where ano = 1999 
+order by total 
+limit 15
+~~~
+
 ## Etapa 3: Criar uma tabela
 <img src="/Sprint-6/athena/fotos/etapa-3-athena.png" alt="etapa-3-athena" width="1000" height="300">
+
+~~~sql
+WITH Decades AS (
+	SELECT DISTINCT FLOOR(ano / 10) * 10 AS decade
+	FROM nomes
+	WHERE ano >= 1950
+),
+RankedNames AS (
+	SELECT FLOOR(n.ano / 10) * 10 AS decade,
+		n.nome,
+		SUM(n.total) AS total_ocorrencias,
+		RANK() OVER(
+			PARTITION BY FLOOR(n.ano / 10) * 10
+			ORDER BY SUM(n.total) DESC
+		) AS rank
+	FROM nomes n
+		JOIN Decades d ON FLOOR(n.ano / 10) * 10 = d.decade
+	GROUP BY FLOOR(n.ano / 10) * 10,
+		n.nome
+)
+SELECT decade,
+	nome,
+	total_ocorrencias
+FROM RankedNames
+WHERE rank <= 3
+ORDER BY decade,
+	rank
+~~~
+
 </details>
 
 
