@@ -6,8 +6,9 @@ Durante esse período, fui apresentado a novas ferramentas essenciais da AWS, in
 
 Destaco também a contribuição fundamental do nosso instrutor, Marcos. Sua orientação especializada desempenhou um papel crucial no aprofundamento do meu entendimento sobre a certificação de Cloud Practitioner da AWS. Além disso, tive a oportunidade de participar de diversos PartnerCasts, o que me permitiu realizar simulações práticas e explorar o banco de questões da AWS de maneira mais abrangente, solidificando assim o meu conhecimento.
 
-Amazon S3
----
+<details>
+<summary>Amazon S3</summary>
+
 Nesse exercício de S3 tive que criar um Bucket para habilitar a hospedagem de site estático, e liberar as configurações de acesso público, após liberar o acesso tive que adicionar uma política de no bucket, adicionei um documento de erro para as notificações e testei o site
 
 ## Etapa 1:Criar um bucket
@@ -30,9 +31,13 @@ Nesse exercício de S3 tive que criar um Bucket para habilitar a hospedagem de s
 
 ## Etapa 7: testar o endpoint do site
 <img src="/Sprint-6/s3/fotos/etapa-7-s3.png" alt="etapa-7-s3" width="150" height="150">
+</details>
 
-Amazon Athena
----
+<details>
+<summary>Amazon Athena</summary>
+</details>
 
-Amazon Lambda
----
+
+<details>
+<summary>Amazon Lambda</summary>
+</details>
