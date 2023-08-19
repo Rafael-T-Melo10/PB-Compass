@@ -135,4 +135,19 @@ ORDER BY decade,
 
 <details>
 <summary>Amazon Lambda</summary>
+
+Nesse exercício do Amazon Lambda tive que criar uma função lambda, construir o código, criar uma layer e colocar em prática
+ 
+## Etapa 1: Criar a função do Lambda
+<img src="/Sprint-6/lambda/fotos/etapa-1-lambda.png" alt="etapa-1-lambda" width="1000" height="300">
+
+## Etapa 2: Construir o código
+<img src="/Sprint-6/lambda/fotos/etapa-2-lambda.png" alt="etapa-2-lambda" width="1000" height="300">
+
+## Etapa 3: Criar uma Layer
+<img src="/Sprint-6/lambda/fotos/etapa-3-lambda.png" alt="etapa-3-lambda" width="1000" height="300">
+
+## Etapa 4: Utilizando a Layer
+<img src="/Sprint-6/lambda/fotos/etapa-4-lambda.png" alt="etapa-4-lambda" width="1000" height="300">
+
 </details>
