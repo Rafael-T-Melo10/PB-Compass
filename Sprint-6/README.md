@@ -24,13 +24,13 @@ Nesse exercício de S3 tive que criar um Bucket para habilitar a hospedagem de s
 <img src="/Sprint-6/s3/fotos/etapa-4-s3.png" alt="etapa-4-s3" width="1000" height="200">
 
 ## Etapa 5: Configurar um documento de índice
-<img src="/Sprint-6/s3/fotos/etapa-5-s3.png" alt="etapa-5-s3" width="1000" height="200">
+<img src="/Sprint-6/s3/fotos/etapa-5-s3.png" alt="etapa-5-s3" width="1000" height="400">
 
 ## Etapa 6: configurar documento de erros
-<img src="/Sprint-6/s3/fotos/etapa-6-s3.png" alt="etapa-6-s3" width="1000" height="200">
+<img src="/Sprint-6/s3/fotos/etapa-6-s3.png" alt="etapa-6-s3" width="1000" height="400">
 
 ## Etapa 7: testar o endpoint do site
-<img src="/Sprint-6/s3/fotos/etapa-7-s3.png" alt="etapa-7-s3" width="1000" height="200">
+<img src="/Sprint-6/s3/fotos/etapa-7-s3.png" alt="etapa-7-s3" width="1000" height="400">
 </details>
 
 <details>
