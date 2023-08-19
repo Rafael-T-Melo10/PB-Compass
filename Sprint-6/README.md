@@ -159,12 +159,12 @@ RUN python3.7 -m pip install --upgrade pip
 
 Nessa etapa tive que rodar uma imagem do docker e usei os seguintes comandos para faze-lo rodar:
 
-Para criar a imagem usei esse:
+Para criar a imagem usei esse: <br>
 ˋˋˋ
 docker build -t amazonlinuxpython37 .
 ˋˋˋ
 
-Para rodar a imagem usei esse:
+Para rodar a imagem usei esse: <br>
 ˋˋˋ
 docker run -it amazonlinuxpython37 bash
 ˋˋˋ
