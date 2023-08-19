@@ -23,8 +23,40 @@ Nesse exercício de S3 tive que criar um Bucket para habilitar a hospedagem de s
 ## Etapa 4: Adicionar política de bucket que torna o conteúdo do bucket publicamente disponível
 <img src="/Sprint-6/s3/fotos/etapa-4-s3.png" alt="etapa-4-s3" width="1000" height="200">
 
+~~~json
+{
+    "Version": "2012-10-17",
+    "Statement": [
+        {
+            "Sid": "PublicReadGetObject",
+            "Effect": "Allow",
+            "Principal": "*",
+            "Action": [
+                "s3:GetObject"
+            ],
+            "Resource": [
+                "arn:aws:s3:::Bucket-Name/*"
+            ]
+        }
+    ]
+}
+~~~
+
 ## Etapa 5: Configurar um documento de índice
 <img src="/Sprint-6/s3/fotos/etapa-5-s3.png" alt="etapa-5-s3" width="1000" height="400">
+
+~~~html
+<html xmlns="http://www.w3.org/1999/xhtml" >
+<head>
+    <title>Home Page do meu WebSite - Tutorial de S3</title>
+</head>
+<body>
+  <h1>Bem-vindo ao meu website</h1>
+  <p>Agora hospedado em Amazon S3!</p>
+  <a href="nome do arquivo CSV a ser baixado">Download CSV File</a> 
+</body>
+</html
+~~~
 
 ## Etapa 6: configurar documento de erros
 <img src="/Sprint-6/s3/fotos/etapa-6-s3.png" alt="etapa-6-s3" width="1000" height="400">
