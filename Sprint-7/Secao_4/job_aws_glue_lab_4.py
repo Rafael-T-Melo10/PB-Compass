@@ -37,7 +37,7 @@ df_masculino.show()
 # Print do schema
 df.printSchema()
 
-# Imprimindo a contagem de linahs
+# Imprimindo a contagem de linhas
 line_count = df_sp.count()
 print("Número de linhas no DataFrame:", line_count)
 

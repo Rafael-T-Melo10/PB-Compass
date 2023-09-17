@@ -1,5 +1,6 @@
 import boto3
 import os
+
 csv_series = 'series.csv'
 csv_movies = 'movies.csv'
 bucket_name = 'etl-desafio'

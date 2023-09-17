@@ -1,0 +1,11 @@
+{
+    "workbench.tree.indent": 15,
+"workbench.tree.renderIndentGuides": "always",
+"workbench.colorCustomizations": {
+"tree.indentGuidesStroke": "#129cb4"
+},
+"editor.cursorBlinking": "smooth",
+ "editor.cursorSmoothCaretAnimation": "on",
+"editor.cursorBlinking": "smooth",
+  "editor.cursorSmoothCaretAnimation": "on",
+}

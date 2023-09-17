@@ -3,29 +3,22 @@ import pandas as pd
 
 from IPython.display import display
 
+api_key = '57435fa8f5ab634ed0c829d299830df1'
 
-api_key = "SUA CHAVE"
-
-url = f"https://api.themoviedb.org/3/movie/top_rated?api_key={api_key}&language=pt-BR"
-
+url = f'https://api.themoviedb.org/3/movie/top_rated?api_key={api_key}&language=pt-BR'
 
 response = requests.get(url)
 data = response.json()
-
-
 filmes = []
 
-
 for movie in data['results']:
-df = {'Titulo': movie['title'],
-'Data de lançamento': movie['release_date'],
-'Visão geral': movie['overview'],
-'Votos': movie['vote_count'],
-'Média de votos:': movie['vote_average']}
+    df = {'Titulo': movie['title'],
+    'Data de lançamento': movie['release_date'],
+    'Visão geral': movie['overview'],
+    'Votos': movie['vote_count'],
+    'Média de votos:': movie['vote_average']}
 
-
-filmes.append(df)
-
+    filmes.append(df)
 
 df = pd.DataFrame(filmes)
 display(df)
