@@ -1,7 +1,7 @@
 import random
 import csv
 
-# 250 números
+# Criando uma lista com 250 números
 list_limit = 250
 inf_limit = 1
 sup_limit = 1000
@@ -22,6 +22,7 @@ nome_arquivo = "animais.csv"
 
 list_anim.sort()
 
+# Criando um csv com os nomes da lista animal 
 with open(nome_arquivo, mode='w', newline='') as arquivo_csv:
     escritor_csv = csv.writer(arquivo_csv)
     
