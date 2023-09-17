@@ -17,7 +17,8 @@ print(list_num)
 
 # Lista de animais
 
-list_anim = ['Cachorro', 'Gato', 'Elefante', 'Leão', 'Tigre', 'Girafa', 'Zebra', 'Urso', 'Canguru', 'Rinoceronte', 'Hipopótamo', 'Coelho', 'Pinguim', 'Golfinho', 'Arara', 'Coruja', 'Sapo', 'Cobra', 'Peixe', 'Tartaruga' ]
+list_anim = ['Cachorro', 'Gato', 'Elefante', 'Leão', 'Tigre', 'Girafa', 'Zebra', 'Urso', 'Canguru',
+             'Rinoceronte', 'Hipopótamo', 'Coelho', 'Pinguim', 'Golfinho', 'Arara', 'Coruja', 'Sapo', 'Cobra', 'Peixe', 'Tartaruga' ]
 nome_arquivo = "animais.csv"
 
 list_anim.sort()
