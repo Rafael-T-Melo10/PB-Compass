@@ -51,5 +51,5 @@ def lambda_handler(event, context):
     
     # Escrevendo os dados usando o boto3
     s3 = boto3.client('s3', aws_access_key_id = aws_access_key, aws_secret_access_key = aws_secret_key, aws_session_token = aws_session_token_key)
-    s3.upload_file(file_path_1, bucket_name,file_path_0 + 'Resultados_Atores')
-    s3.upload_file(file_path_2, bucket_name,file_path_0 + 'Resultados_Genero')
+    s3.upload_file(file_path_1, bucket_name,file_path_0 + 'Resultados_Atores.json')
+    s3.upload_file(file_path_2, bucket_name,file_path_0 + 'Resultados_Genero.json')

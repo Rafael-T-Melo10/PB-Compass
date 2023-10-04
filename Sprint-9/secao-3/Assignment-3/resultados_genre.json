@@ -1,0 +1,431 @@
+[
+    {
+        "page": 1,
+        "results": [
+            {
+                "backdrop_path": "/8HHJUncPJ30rmYAuSRYjHpz2B3R.jpg",
+                "first_air_date": "1989-12-17",
+                "genre_ids": [
+                    10751,
+                    16,
+                    35
+                ],
+                "id": 456,
+                "name": "The Simpsons",
+                "origin_country": [
+                    "US"
+                ],
+                "original_language": "en",
+                "original_name": "The Simpsons",
+                "overview": "Set in Springfield, the average American town, the show focuses on the antics and everyday adventures of the Simpson family; Homer, Marge, Bart, Lisa and Maggie, as well as a virtual cast of thousands. Since the beginning, the series has been a pop culture icon, attracting hundreds of celebrities to guest star. The show has also made name for itself in its fearless satirical take on politics, media and American life in general.",
+                "popularity": 917.12,
+                "poster_path": "/zI3E2a3WYma5w8emI35mgq5Iurx.jpg",
+                "vote_average": 8,
+                "vote_count": 9094
+            },
+            {
+                "backdrop_path": "/6UHIo0zxj7Ub5akglnQiNYf87IF.jpg",
+                "first_air_date": "1999-01-31",
+                "genre_ids": [
+                    16,
+                    35
+                ],
+                "id": 1434,
+                "name": "Family Guy",
+                "origin_country": [
+                    "US"
+                ],
+                "original_language": "en",
+                "original_name": "Family Guy",
+                "overview": "Sick, twisted, politically incorrect and Freakin' Sweet animated series featuring the adventures of the dysfunctional Griffin family. Bumbling Peter and long-suffering Lois have three kids. Stewie (a brilliant but sadistic baby bent on killing his mother and taking over the world), Meg (the oldest, and is the most unpopular girl in town) and Chris (the middle kid, he's not very bright but has a passion for movies). The final member of the family is Brian - a talking dog and much more than a pet, he keeps Stewie in check whilst sipping Martinis and sorting through his own life issues.",
+                "popularity": 855.035,
+                "poster_path": "/aLB7psB9N81n5GecHNOudXWW3AI.jpg",
+                "vote_average": 7.3,
+                "vote_count": 3856
+            },
+            {
+                "backdrop_path": "/9wLRrDBRGtCD68BRF7BsD0RHHQ3.jpg",
+                "first_air_date": "2005-04-22",
+                "genre_ids": [
+                    10759,
+                    16,
+                    35,
+                    10765
+                ],
+                "id": 65733,
+                "name": "Doraemon",
+                "origin_country": [
+                    "JP"
+                ],
+                "original_language": "ja",
+                "original_name": "\u30c9\u30e9\u3048\u3082\u3093",
+                "overview": "Robotic cat Doraemon is sent back in time from the 22nd century to protect 10-year-old Noby, a lazy and uncoordinated boy who is destined to have a tragic future. Doraemon can create secret gadgets from a pocket on his stomach, but they usually cause more bad than good because of Noby's propensity to misuse them.",
+                "popularity": 817.813,
+                "poster_path": "/9ZN1P32SHviL3SV51qLivxycvcx.jpg",
+                "vote_average": 7.9,
+                "vote_count": 72
+            },
+            {
+                "backdrop_path": "/gbxz7jJLJOJbr0ZFQqiK9jF432y.jpg",
+                "first_air_date": "1997-01-12",
+                "genre_ids": [
+                    35,
+                    16
+                ],
+                "id": 2122,
+                "name": "King of the Hill",
+                "origin_country": [
+                    "US"
+                ],
+                "original_language": "en",
+                "original_name": "King of the Hill",
+                "overview": "Set in Texas, this animated series follows the life of propane salesman Hank Hill, who lives with his overly confident substitute Spanish teacher wife Peggy, wannabe comedian son Bobby, and naive niece Luanne. Hank has conservative views about God, family, and country, but his values and ethics are often challenged by the situations he, his family, and his beer-drinking neighbors/buddies find themselves in.",
+                "popularity": 772.794,
+                "poster_path": "/3MnkwPdqQ4if7HL4rYTy6eUyq8q.jpg",
+                "vote_average": 7.3,
+                "vote_count": 513
+            },
+            {
+                "backdrop_path": "/mc3rG5M9dFVjMfaCFNfbD5gu2pK.jpg",
+                "first_air_date": "2005-02-06",
+                "genre_ids": [
+                    16,
+                    35
+                ],
+                "id": 1433,
+                "name": "American Dad!",
+                "origin_country": [
+                    "US"
+                ],
+                "original_language": "en",
+                "original_name": "American Dad!",
+                "overview": "The series focuses on an eccentric motley crew that is the Smith family and their three housemates: Father, husband, and breadwinner Stan Smith; his better half housewife, Francine Smith; their college-aged daughter, Hayley Smith; and their high-school-aged son, Steve Smith. Outside of the Smith family, there are three additional main characters, including Hayley's boyfriend turned husband, Jeff Fischer; the family's man-in-a-goldfish-body pet, Klaus; and most notably the family's zany alien, Roger, who is \"full of masquerades, brazenness, and shocking antics.\"",
+                "popularity": 746.344,
+                "poster_path": "/xnFFz3etm1vftF0ns8RMHA8XdqT.jpg",
+                "vote_average": 6.9,
+                "vote_count": 1849
+            },
+            {
+                "backdrop_path": "/2vbE9ajftJ7dkqUAyxDS0WFILx8.jpg",
+                "first_air_date": "2010-09-06",
+                "genre_ids": [
+                    16,
+                    35
+                ],
+                "id": 31132,
+                "name": "Regular Show",
+                "origin_country": [
+                    "US"
+                ],
+                "original_language": "en",
+                "original_name": "Regular Show",
+                "overview": "Two bored groundskeepers, Mordecai (a six-foot-tall blue jay) and Rigby (a hyperactive raccoon) are best friends who spend their days trying to entertain themselves by any means necessary, much to the displeasure of their boss. Their everyday pursuits often lead to things spiraling out of control and into the surreal.",
+                "popularity": 738.828,
+                "poster_path": "/mS5SLxMYcKfUxA0utBSR5MOAWWr.jpg",
+                "vote_average": 8.7,
+                "vote_count": 1773
+            },
+            {
+                "backdrop_path": "/9In9QgVJx7PlFOAgVHCKKSbo605.jpg",
+                "first_air_date": "2013-12-02",
+                "genre_ids": [
+                    16,
+                    35,
+                    10765,
+                    10759
+                ],
+                "id": 60625,
+                "name": "Rick and Morty",
+                "origin_country": [
+                    "US"
+                ],
+                "original_language": "en",
+                "original_name": "Rick and Morty",
+                "overview": "Rick is a mentally-unbalanced but scientifically gifted old man who has recently reconnected with his family. He spends most of his time involving his young grandson Morty in dangerous, outlandish adventures throughout space and alternate universes. Compounded with Morty's already unstable family life, these events cause Morty much distress at home and school.",
+                "popularity": 701.077,
+                "poster_path": "/cvhNj9eoRBe5SxjCbQTkh05UP5K.jpg",
+                "vote_average": 8.7,
+                "vote_count": 8552
+            },
+            {
+                "backdrop_path": "/oJxLvh3ku9Ad8Axpm73DL45o1hw.jpg",
+                "first_air_date": "2010-10-10",
+                "genre_ids": [
+                    16,
+                    35,
+                    10765,
+                    10762
+                ],
+                "id": 33765,
+                "name": "My Little Pony: Friendship Is Magic",
+                "origin_country": [
+                    "CA",
+                    "US"
+                ],
+                "original_language": "en",
+                "original_name": "My Little Pony: Friendship Is Magic",
+                "overview": "\"Get your muzzle out of those books and make some friends!\" That's what Princess Celestia tells Twilight Sparkle. She may be the smartest unicorn in Equestria, but Twilight Sparkle gets an \"incomplete\" in friendship. There's more to life than learning magic, after all -- so she goes to Ponyville on a mission to make friends. There she meets five special ponies who take her on exciting adventures and teach her the most powerful magic of all ... the magic of friendship!",
+                "popularity": 659.312,
+                "poster_path": "/fwW7WgJIjhBsnzk87Gyh6g9187m.jpg",
+                "vote_average": 8.1,
+                "vote_count": 554
+            },
+            {
+                "backdrop_path": "/v31rGTXTYCbxPu6JHJWGxHbcVYW.jpg",
+                "first_air_date": "1996-02-24",
+                "genre_ids": [
+                    16,
+                    35,
+                    10765
+                ],
+                "id": 8627,
+                "name": "The Spooktacular New Adventures of Casper",
+                "origin_country": [
+                    "US"
+                ],
+                "original_language": "en",
+                "original_name": "The Spooktacular New Adventures of Casper",
+                "overview": "The Spooktacular New Adventures of Casper is an animated television spin-off of the feature film Casper, which, in turn, was based on the Harvey Comics character of Casper the Friendly Ghost.",
+                "popularity": 646.017,
+                "poster_path": "/jCfJwKRusQByTIZNmDFyWkayq0v.jpg",
+                "vote_average": 6.4,
+                "vote_count": 29
+            },
+            {
+                "backdrop_path": "/sGc82zQ1QwWHmJvqgkEQQT6w0hv.jpg",
+                "first_air_date": "1994-04-15",
+                "genre_ids": [
+                    16,
+                    35
+                ],
+                "id": 2798,
+                "name": "Space Ghost Coast to Coast",
+                "origin_country": [
+                    "US"
+                ],
+                "original_language": "en",
+                "original_name": "Space Ghost Coast to Coast",
+                "overview": "A cartoon superhero interacts with live guests via his television set in this parody talk show based on 1960s Hanna-Barbera cartoon character Space Ghost.",
+                "popularity": 611.362,
+                "poster_path": "/6MJisX8mwCaccNTTftp8z6uTanF.jpg",
+                "vote_average": 7.9,
+                "vote_count": 81
+            },
+            {
+                "backdrop_path": "/pMCvRynXABgLBMKHYa2UXjTBMsU.jpg",
+                "first_air_date": "1999-03-28",
+                "genre_ids": [
+                    16,
+                    35,
+                    10765
+                ],
+                "id": 615,
+                "name": "Futurama",
+                "origin_country": [
+                    "US"
+                ],
+                "original_language": "en",
+                "original_name": "Futurama",
+                "overview": "The adventures of a late-20th-century New York City pizza delivery boy, Philip J. Fry, who, after being unwittingly cryogenically frozen for one thousand years, finds employment at Planet Express, an interplanetary delivery company in the retro-futuristic 31st century.",
+                "popularity": 609.071,
+                "poster_path": "/7RRHbCUtAsVmKI6FEMzZB6Re88P.jpg",
+                "vote_average": 8.4,
+                "vote_count": 2852
+            },
+            {
+                "backdrop_path": "/zCTLW4s4Cm2DfBfaIDBB1XDzqsU.jpg",
+                "first_air_date": "2015-12-24",
+                "genre_ids": [
+                    16,
+                    10751,
+                    10762,
+                    35,
+                    10759
+                ],
+                "id": 64783,
+                "name": "Dawn of the Croods",
+                "origin_country": [
+                    "US"
+                ],
+                "original_language": "en",
+                "original_name": "Dawn of the Croods",
+                "overview": "The world's first family is back for more laughs as they discover sports, sleepovers and other wonders in a world of exotic creatures and adventures. This 2D animated cartoon is based on the 3D animated feature film, \"The Croods\".",
+                "popularity": 514.404,
+                "poster_path": "/cyCAsMLGECvEAFDfKcxcWy7YTOW.jpg",
+                "vote_average": 7.6,
+                "vote_count": 84
+            },
+            {
+                "backdrop_path": null,
+                "first_air_date": "2004-11-14",
+                "genre_ids": [
+                    16,
+                    35
+                ],
+                "id": 2718,
+                "name": "Tom Goes to the Mayor",
+                "origin_country": [
+                    "US"
+                ],
+                "original_language": "en",
+                "original_name": "Tom Goes to the Mayor",
+                "overview": "Tom Goes to the Mayor is an American animated television series created by Tim Heidecker and Eric Wareheim for Cartoon Network's late night programming block, Adult Swim. It premiered on November 14, 2004 and ended on September 25, 2006, with a total of thirty episodes.",
+                "popularity": 508.371,
+                "poster_path": "/jECzaCRzJdR24jfKs5Bcn346Do5.jpg",
+                "vote_average": 7,
+                "vote_count": 26
+            },
+            {
+                "backdrop_path": "/BA1cBwYLMQFfReDaXQZ5KmPpFf.jpg",
+                "first_air_date": "2018-04-14",
+                "genre_ids": [
+                    16,
+                    35,
+                    10762
+                ],
+                "id": 125004,
+                "name": "Littlest Pet Shop: A World of Our Own",
+                "origin_country": [
+                    "US"
+                ],
+                "original_language": "en",
+                "original_name": "Littlest Pet Shop: A World of Our Own",
+                "overview": "In Paw-Tucket, pets of all types form friendships, pursue their passions and have a great time being themselves.",
+                "popularity": 500.824,
+                "poster_path": "/dhksSgkzyNyqlcaUFuGRcJZZqrV.jpg",
+                "vote_average": 5.9,
+                "vote_count": 10
+            },
+            {
+                "backdrop_path": "/lBT973Q4rJl38u82kzDZ6W1bSo5.jpg",
+                "first_air_date": "2001-08-24",
+                "genre_ids": [
+                    16,
+                    35,
+                    10751
+                ],
+                "id": 897,
+                "name": "The Grim Adventures of Billy and Mandy",
+                "origin_country": [
+                    "US"
+                ],
+                "original_language": "en",
+                "original_name": "The Grim Adventures of Billy and Mandy",
+                "overview": "The exploits of the Grim Reaper, who has been forced into being the best friend of two children. A spin-off of the show Grim & Evil.",
+                "popularity": 443.274,
+                "poster_path": "/gxdTn5UwvriN1EzDSNnWr5AAQN7.jpg",
+                "vote_average": 8.1,
+                "vote_count": 878
+            },
+            {
+                "backdrop_path": "/c7QHAgapq9VhjFFgR643lMxPKpR.jpg",
+                "first_air_date": "2005-05-30",
+                "genre_ids": [
+                    16,
+                    10759,
+                    10765,
+                    35
+                ],
+                "id": 446,
+                "name": "The Life and Times of Juniper Lee",
+                "origin_country": [
+                    "US"
+                ],
+                "original_language": "en",
+                "original_name": "The Life and Times of Juniper Lee",
+                "overview": "The Life and Times of Juniper Lee is an American animated television series, created by Judd Winick and produced by Cartoon Network Studios. It premiered on Cartoon Network on May 30, 2005, and ended its run on April 9, 2007.",
+                "popularity": 380.352,
+                "poster_path": "/8Za5FSOQ06B7eqrhn0HxsPrs2i9.jpg",
+                "vote_average": 5.7,
+                "vote_count": 30
+            },
+            {
+                "backdrop_path": "/3PCVo8Wikg4wG6dqZHs4Ofp0laA.jpg",
+                "first_air_date": "2011-05-03",
+                "genre_ids": [
+                    16,
+                    10751,
+                    10765,
+                    35
+                ],
+                "id": 37606,
+                "name": "The Amazing World of Gumball",
+                "origin_country": [
+                    "US",
+                    "GB"
+                ],
+                "original_language": "en",
+                "original_name": "The Amazing World of Gumball",
+                "overview": "The life of Gumball Watterson, a 12-year old cat who attends middle school in Elmore. Accompanied by his pet, adoptive brother, and best friend Darwin Watterson, he frequently finds himself involved in various shenanigans around the city, during which he interacts with various family members: Anais, Richard, and Nicole Watterson, and other various citizens.",
+                "popularity": 378.207,
+                "poster_path": "/VYnnyA2hyxi3VUPgCA71mMtt69.jpg",
+                "vote_average": 8.5,
+                "vote_count": 1232
+            },
+            {
+                "backdrop_path": "/6LLRTLGsb4HZaOI2LX3EsxQResH.jpg",
+                "first_air_date": "2011-01-09",
+                "genre_ids": [
+                    35,
+                    16
+                ],
+                "id": 32726,
+                "name": "Bob's Burgers",
+                "origin_country": [
+                    "US"
+                ],
+                "original_language": "en",
+                "original_name": "Bob's Burgers",
+                "overview": "Bob's Burgers follows a third-generation restaurateur, Bob, as he runs Bob's Burgers with the help of his wife and their three kids. Bob and his quirky family have big ideas about burgers, but fall short on service and sophistication. Despite the greasy counters, lousy location and a dearth of customers, Bob and his family are determined to make Bob's Burgers \"grand re-re-re-opening\" a success.",
+                "popularity": 376.61,
+                "poster_path": "/4Mey4NYqXH0LlDO06ebevkDleTo.jpg",
+                "vote_average": 7.9,
+                "vote_count": 801
+            },
+            {
+                "backdrop_path": "/doZ35KmTsCCnEb8cy7HKfSAG4MO.jpg",
+                "first_air_date": "2015-01-18",
+                "genre_ids": [
+                    10759,
+                    16,
+                    35,
+                    10765
+                ],
+                "id": 61923,
+                "name": "Star vs. the Forces of Evil",
+                "origin_country": [
+                    "US"
+                ],
+                "original_language": "en",
+                "original_name": "Star vs. the Forces of Evil",
+                "overview": "Intergalactic warrior Star Butterfly arrives on Earth to live with the Diaz family. She continues to battle villains throughout the universe and high school, mainly to protect her extremely powerful wand, an object that still confuses her.",
+                "popularity": 362.776,
+                "poster_path": "/dKFL1AOdKNoazqZDg1zq2z69Lx1.jpg",
+                "vote_average": 8.4,
+                "vote_count": 1239
+            },
+            {
+                "backdrop_path": "/w4UW17diTNFMui2yHR3SaH0Bqld.jpg",
+                "first_air_date": "2008-09-28",
+                "genre_ids": [
+                    16,
+                    35
+                ],
+                "id": 5921,
+                "name": "The Life & Times of Tim",
+                "origin_country": [
+                    "US"
+                ],
+                "original_language": "en",
+                "original_name": "The Life & Times of Tim",
+                "overview": "The Life & Times of Tim is an HBO comedy animated television series, which premiered on September 28, 2008. The series was created by Steve Dildarian, and is about a hapless man in his mid-20's named Tim who lives in New York City with his girlfriend Amy. Throughout the series, Tim constantly finds himself in increasingly awkward situations in both his work and personal life.\n\nThe first season aired in 2008 and has since been aired in numerous countries, and has developed a cult following. The second season debuted on February 19, 2010 on HBO. On June 4, 2010, HBO announced it was canceling the show. There were rumors that it was going to be picked up by another network. On the 16th of August, 2010, it was announced HBO had reversed their original decision to cancel the show, and as a result, a third season was ordered. Season 3 of The Life and Times of Tim premiered on December 16, 2011. The first season was released on DVD on February 9, 2010, the second season was released on DVD on December 13, 2011, and the third season was released on DVD on December 18, 2012.\n\nOn April 20, 2012, HBO cancelled the series after three seasons.\n\nThe theme song is \"I'll Never Get Out of This World Alive\" performed by country music star Hank Williams.",
+                "popularity": 359.132,
+                "poster_path": "/j6Ryambcu7JvHCeos1YH1ykme8L.jpg",
+                "vote_average": 8,
+                "vote_count": 28
+            }
+        ],
+        "total_pages": 174,
+        "total_results": 3470
+    }
+]
