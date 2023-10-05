@@ -301,15 +301,75 @@ job.commit()
 
 No assignment 4 tivemos que pegar nossos dados da trusted e fazer a modelagem deles para depois colocarmos eles na refined:
 
-Modelagem do parquet Actors
+### Modelagem do parquet Actors
 <img src="/Sprint-09/secao-3/Assignment-4/modelo_dim_atores.png" alt="Modelagem Dimensional Atores" width="1150" height="550">
-Modelagem do parquet Genre
+
+### Modelagem do parquet Genre
 <img src="/Sprint-09/secao-3/Assignment-4/modelo_dim_genero.png" alt="Modelagem Dimensional Genero" width="1150" height="550">
 
 </details>
 
 <details>
 <summary>Assignment 5</summary>
+
+No assignment 5 tivemos que pegar os dados remodelados e coloca-los na refined, como eu fiz a modelagem dimensional pelo AWS Athena, onde as tabelas ja ficavam salvas no banco de dados do Glue, eu fiz um código com pyspark para pegar as tabelas criadas no Athena e coloca-lás na refined:
+
+<img src="/Sprint-09/secao-3/Assignment-5/athena-tables.png" alt="athena-tables" width="550" height="650">
+
+~~~Python
+import sys
+from awsglue.transforms import *
+from awsglue.utils import getResolvedOptions
+from pyspark.context import SparkContext
+from awsglue.context import GlueContext
+from awsglue.job import Job
+
+# Uma função para colocar somente uma repartição de parquet para cada tabela
+def create_dynamic_frame(glueContext, database, table_name):
+    return glueContext.create_dynamic_frame.from_catalog(database=database, table_name=table_name).repartition(1)
+
+# Uma função para escrever o dataframe
+def write_dynamic_frame(glueContext, dynamic_frame, output_path):
+    glueContext.write_dynamic_frame.from_options(
+        frame=dynamic_frame, connection_type='s3',
+        connection_options={'path': output_path}, format='parquet'
+    )
+
+sc = SparkContext()
+glueContext = GlueContext(sc)
+spark = glueContext.spark_session
+job = Job(glueContext)
+
+glueContext = GlueContext(SparkContext.getOrCreate())
+args = getResolvedOptions(sys.argv, ['JOB_NAME'])
+job.init(args['JOB_NAME'], args)
+
+# O path do s3
+output_path = 's3://etl-desafio/Refined/Parquet/2023/09/28/'
+
+# As variáveis com o nome das tabelas
+source_tables = ['movies_parquet', 'series_parquet']
+actors_views = ['dim_ator_actors', 'dim_departamento_actors', 'dim_filmes_actors', 'dim_genero_actors', 'dim_midia_actors', 'tabela_fato_actors']
+genre_views = ['dim_data_genre', 'dim_genero_genre', 'dim_idioma_genre', 'dim_pais_genre', 'fatos_genre']
+
+# O looping para criar os parquet's dos csv's
+for table in source_tables:
+    datasource = create_dynamic_frame(glueContext, 'tmdb_database', table)
+    write_dynamic_frame(glueContext, datasource, output_path + 'CSV/')
+
+# O looping para criar os parques do parquet actors
+for view in actors_views:
+    datasource = create_dynamic_frame(glueContext, 'tmdb_database', view)
+    write_dynamic_frame(glueContext, datasource, output_path + 'actors')
+
+# O looping para criar os parques do parquet genre
+for view in genre_views:
+    datasource = create_dynamic_frame(glueContext, 'tmdb_database', view)
+    write_dynamic_frame(glueContext, datasource, output_path + 'genre')
+
+job.commit()
+
+~~~
 </details>
 
 
