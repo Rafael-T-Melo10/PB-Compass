@@ -154,7 +154,8 @@ JOIN DimensaoVendedor V ON L.idVendedor = V.idVendedor
 <details>
 <summary>Seção 3</summary>
 
-## Assignment 3
+<details>
+<summary>Assignment 3</summary>
 Nesse assignment tivemos que pegar nossos json's e CSV's na camada raw, tratar os dados não confiáveis e colocar eles na camada trusted em formato parquet:
 
 CSV ===> Parquet
@@ -195,7 +196,7 @@ df_series.write.parquet(output_path_serie, mode='overwrite')
 job.commit()
 ~~~
 
-Json ===> Parquet
+JSON ===> Parquet
 
 ~~~Python
 import sys
@@ -292,4 +293,18 @@ df_genre_split.write.parquet(output_path_genre, mode='overwrite')
 
 job.commit()
 ~~~
+</details>
+
+
+<details>
+<summary>Assignment 4</summary>
+
+No assignment 4 tivemos que pegar nossos dados da trusted e fazer a modelagem deles para depois colocarmos eles na refined:
+
+Modelagem do parquet Actors
+<img src="/Sprint-09/secao-3/Assignment-4/modelo_dim_atores.png" alt="Modelagem Dimensional Atores" width="1150" height="550">
+Modelagem do parquet Genre
+<img src="/Sprint-09/secao-3/Assignment-4/modelo_dim_genero.png" alt="Modelagem Dimensional Genero" width="1150" height="550">
+
+</details>
 </details>
