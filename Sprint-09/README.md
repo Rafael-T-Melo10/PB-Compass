@@ -99,7 +99,7 @@ FROM tb_locacao
 ## Modelagem Dimensional
 Depois fizemos a modelagem dimensional do banco de dados concessionaria, primeiro o diagrama depois o código SQL que criava views:
 
-<img src="/Sprint-09/secao-2/Diagrama_dimensional.png" alt="Modelagem Dimensional" width="250" height="250">
+<img src="/Sprint-09/secao-2/Diagrama_dimensional.png" alt="Modelagem Dimensional" width="550" height="550">
 
 
 ~~~SQL
