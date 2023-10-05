@@ -11,9 +11,6 @@ Essas atividades não apenas desafiaram nossas habilidades técnicas, mas també
 <details>
 <summary>Seção 2</summary>
 
-
-</details>
-
 ## Modelagem Relacional
 Nessa etapa fizemos a modelagem relacional do banco de dados concessionaria, primeiro o diagrama depois o código SQL que criava as tabelas:
 
@@ -150,4 +147,6 @@ JOIN DimensaoCliente CL ON L.idCliente = CL.idCliente
 JOIN DimensaoVendedor V ON L.idVendedor = V.idVendedor
 
 
-~~
+~~~
+
+</details>
