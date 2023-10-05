@@ -307,4 +307,10 @@ Modelagem do parquet Genre
 <img src="/Sprint-09/secao-3/Assignment-4/modelo_dim_genero.png" alt="Modelagem Dimensional Genero" width="1150" height="550">
 
 </details>
+
+<details>
+<summary>Assignment 5</summary>
+</details>
+
+
 </details>
