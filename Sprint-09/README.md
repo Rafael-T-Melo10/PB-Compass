@@ -314,7 +314,7 @@ No assignment 4 tivemos que pegar nossos dados da trusted e fazer a modelagem de
 
 No assignment 5 tivemos que pegar os dados remodelados e coloca-los na refined, como eu fiz a modelagem dimensional pelo AWS Athena, onde as tabelas ja ficavam salvas no banco de dados do Glue, eu fiz um código com pyspark para pegar as tabelas criadas no Athena e coloca-lás na refined:
 
-<img src="/Sprint-09/secao-3/Assignment-5/athena-tables.png" alt="athena-tables" width="550" height="650">
+<img src="/Sprint-09/secao-3/Assignment-5/athena-tables.png" alt="athena-tables" width="450" height="750">
 
 ~~~Python
 import sys
