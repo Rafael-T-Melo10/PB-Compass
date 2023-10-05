@@ -14,7 +14,7 @@ Essas atividades não apenas desafiaram nossas habilidades técnicas, mas també
 ## Modelagem Relacional
 Nessa etapa fizemos a modelagem relacional do banco de dados concessionaria, primeiro o diagrama depois o código SQL que criava as tabelas:
 
-<img src="/Sprint-09/secao-2/diagrama_relacional.png" alt="Modelagem Relacional" width="150" height="150">
+<img src="/Sprint-09/secao-2/diagrama_relacional.png" alt="Modelagem Relacional" width="250" height="250">
 
 ~~~SQL
 CREATE TABLE Vendedor (
@@ -99,7 +99,7 @@ FROM tb_locacao
 ## Modelagem Dimensional
 Depois fizemos a modelagem dimensional do banco de dados concessionaria, primeiro o diagrama depois o código SQL que criava views:
 
-<img src="/Sprint-09/secao-2/Diagrama_dimensional.png" alt="Modelagem Dimensional" width="150" height="150">
+<img src="/Sprint-09/secao-2/Diagrama_dimensional.png" alt="Modelagem Dimensional" width="250" height="250">
 
 
 ~~~SQL
