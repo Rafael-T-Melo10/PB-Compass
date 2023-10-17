@@ -21,8 +21,4 @@ Apesar dessas limitações, consegui criar um dashboard informativo e envolvente
 
 ### Esse é o certificado dessa sprint:
 
-<<<<<<< HEAD
-<img src="/Sprint-10/certificado/aws-quicksight.jpg" alt="AWS QuickSight do Dashboard" width="250" height="550">
-=======
-<img src="/Sprint-10/certificado/aws-quicksight.jpg" alt="AWS QuickSight do Dashboard" width="550" height="550">
->>>>>>> 71f0a401e6672070e691908c0004cdca8e4e9239
+<img src="/Sprint-10/certificado/aws-quicksight.jpg" alt="AWS QuickSight do Dashboard" width="350" height="250">
