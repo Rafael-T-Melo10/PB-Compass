@@ -8,11 +8,11 @@ Apesar dessas limitações, consegui criar um dashboard informativo e envolvente
 
 ## Primeira página:
 
-[Primeira página](/Sprint-10/Sheet_1.pdf)
+[Primeira página do Dashboard](/Sprint-10/Sheet_1.pdf)
 
 ## Segunda página:
 
-[Segunda página](/Sprint-10/Sheet_2.pdf)
+[Segunda página do Dashboard](/Sprint-10/Sheet_2.pdf)
 
 ## Terceira página:
 
@@ -21,4 +21,4 @@ Apesar dessas limitações, consegui criar um dashboard informativo e envolvente
 
 ### Esse é o certificado dessa sprint:
 
-[AWS QuickSight](/Sprint-10/certificado/aws-quicksight.jpg)
+[AWS QuickSight do Dashboard](/Sprint-10/certificado/aws-quicksight.jpg)
